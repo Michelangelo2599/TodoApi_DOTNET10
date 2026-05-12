@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fastcode-174\\Desktop\\TodoApi_DOTNET10\\Pucca\\Pucca.csproj": {}
+    "C:\\Users\\Fastcode-178\\Downloads\\TodoApi_DOTNET10\\Pucca\\Pucca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fastcode-174\\Desktop\\TodoApi_DOTNET10\\Pucca\\Pucca.csproj": {
+    "C:\\Users\\Fastcode-178\\Downloads\\TodoApi_DOTNET10\\Pucca\\Pucca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fastcode-174\\Desktop\\TodoApi_DOTNET10\\Pucca\\Pucca.csproj",
+        "projectUniqueName": "C:\\Users\\Fastcode-178\\Downloads\\TodoApi_DOTNET10\\Pucca\\Pucca.csproj",
         "projectName": "Pucca",
-        "projectPath": "C:\\Users\\Fastcode-174\\Desktop\\TodoApi_DOTNET10\\Pucca\\Pucca.csproj",
-        "packagesPath": "C:\\Users\\Fastcode-174\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fastcode-174\\Desktop\\TodoApi_DOTNET10\\Pucca\\obj\\",
+        "projectPath": "C:\\Users\\Fastcode-178\\Downloads\\TodoApi_DOTNET10\\Pucca\\Pucca.csproj",
+        "packagesPath": "C:\\Users\\Fastcode-178\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fastcode-178\\Downloads\\TodoApi_DOTNET10\\Pucca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fastcode-174\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Fastcode-178\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

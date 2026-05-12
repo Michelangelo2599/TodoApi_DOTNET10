@@ -17,45 +17,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Pucca
 build_property.RootNamespace = Pucca
-build_property.ProjectDir = C:\Users\Fastcode-174\Desktop\TodoApi_DOTNET10\Pucca\
+build_property.ProjectDir = C:\Users\Fastcode-178\Downloads\TodoApi_DOTNET10\Pucca\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Fastcode-174\Desktop\TodoApi_DOTNET10\Pucca
+build_property.MSBuildProjectDirectory = C:\Users\Fastcode-178\Downloads\TodoApi_DOTNET10\Pucca
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Fastcode-174/Desktop/TodoApi_DOTNET10/Pucca/App.razor]
+[C:/Users/Fastcode-178/Downloads/TodoApi_DOTNET10/Pucca/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fastcode-174/Desktop/TodoApi_DOTNET10/Pucca/Pages/Counter.razor]
+[C:/Users/Fastcode-178/Downloads/TodoApi_DOTNET10/Pucca/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fastcode-174/Desktop/TodoApi_DOTNET10/Pucca/Pages/Home.razor]
+[C:/Users/Fastcode-178/Downloads/TodoApi_DOTNET10/Pucca/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fastcode-174/Desktop/TodoApi_DOTNET10/Pucca/Pages/NotFound.razor]
+[C:/Users/Fastcode-178/Downloads/TodoApi_DOTNET10/Pucca/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fastcode-174/Desktop/TodoApi_DOTNET10/Pucca/Pages/Weather.razor]
+[C:/Users/Fastcode-178/Downloads/TodoApi_DOTNET10/Pucca/Pages/ToDoList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9Eb0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fastcode-178/Downloads/TodoApi_DOTNET10/Pucca/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fastcode-174/Desktop/TodoApi_DOTNET10/Pucca/_Imports.razor]
+[C:/Users/Fastcode-178/Downloads/TodoApi_DOTNET10/Pucca/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fastcode-174/Desktop/TodoApi_DOTNET10/Pucca/Layout/MainLayout.razor]
+[C:/Users/Fastcode-178/Downloads/TodoApi_DOTNET10/Pucca/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-nyqpibgy88
 
-[C:/Users/Fastcode-174/Desktop/TodoApi_DOTNET10/Pucca/Layout/NavMenu.razor]
+[C:/Users/Fastcode-178/Downloads/TodoApi_DOTNET10/Pucca/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-s9i4b4qdm8
