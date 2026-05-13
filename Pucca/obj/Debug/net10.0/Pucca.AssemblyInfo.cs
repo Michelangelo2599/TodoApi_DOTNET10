@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pucca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4888e2292c13b2cf40d1247add41e3a449318231")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e1c89a5f7078c15f2deb991a8f070593d7d1956")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pucca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pucca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

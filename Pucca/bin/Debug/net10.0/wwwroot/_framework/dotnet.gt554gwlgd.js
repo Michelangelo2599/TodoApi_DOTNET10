@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "Pucca",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-3BFi06TjoGz5l5qzwch7uOxYtK1qIc3HarhpxgyVEck=",
+    "hash": "sha256-9jKgIuFK3t9Ot+wQJS9/scbg2UVyfnmA1yQn6OdjwhM=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.mx9wzm9o5h.js"
@@ -1242,16 +1242,16 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "Pucca.wasm",
-        "name": "Pucca.t19w5s2i4q.wasm",
-        "integrity": "sha256-L1Xknbeom0ukkb1QtgRKTD4Zt2GOK5+rYvx1jZuwIgQ=",
+        "name": "Pucca.u0n5dh485z.wasm",
+        "integrity": "sha256-MqsaPcYomDGg166iFTpBNP4O9ZmzdY/6+scztGP3oqw=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "Pucca.pdb",
-        "name": "Pucca.ww9kv1veyz.pdb",
-        "integrity": "sha256-MAKczpd2pxIYcy5SIE3C8aymj2F0vv49POmcF4JCNcg=",
+        "name": "Pucca.282wa6qmow.pdb",
+        "integrity": "sha256-vup/gJAy/1m0wCCay8ABoS5xh4bgDg9JoMGkZG01RP4=",
         "cache": "force-cache"
       }
     ],
